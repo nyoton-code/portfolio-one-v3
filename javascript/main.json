@@ -1,0 +1,62 @@
+{
+    "sections" : [
+       {
+            "home" :
+            {
+                "full-name" : "nyoton diba" ,
+                "jobs" : ["software enginner", "front end", "designer"]
+            }
+        },
+
+        {
+            "about" : 
+            {
+                "paragraphe1" : "Hello, I'm Nyoton, a passionate front-end developer. I enjoy creating visually appealing and user-friendly web interfaces. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring designs to life with clean and efficient code.",
+                "paragraphe2" : "Aside from coding, I am constantly learning new technologies and best practices to stay ahead in the ever-evolving world of web development. My goal is to craft seamless user experiences that leave a lasting impression. Let’s build something amazing together!"
+            }
+        },
+
+        {
+            "skills" : {
+
+            "skill-1": ["Html/css" , 90], 
+            "skill-2": ["problem solving" , 80], 
+            "skill-3": ["javascript" , 85 ], 
+            "skill-4": ["sass/tailwind" , 70 ], 
+            "skill-5": ["react.js" , 60 ], 
+            "skill-6": ["git/github" , 80 ]
+            
+                  }
+        },
+
+        {
+            "services" : {
+
+            "services-1": "security",
+            "services-2": "fixing issues",
+            "services-3":"Web Development",
+            "services-4": "Creative Design",
+            "services-5": "Mobile Application",
+            "services-6": "marketing"
+                  }
+        },
+
+        {
+        "stats" : {
+            "clients" : 235,
+            "projects" : 506 ,
+            "countries" : 18 ,
+            "experience" : 12
+        }
+    },
+
+        {
+        "contact" : {
+            "About Club paragraph" : ["Running Guide" , "Workouts"],
+            "phone" : ["+212 89 07 35 179" , "+212 432 232 9428"],
+            "location" : ["Morroco Agadir" , "Nyoton company"]
+        }
+    }
+
+    ]
+}
