@@ -1,7 +1,7 @@
 
 let data;
 async function fetchData() {
-    const resp = await fetch("/portfolio-one-v3/javascript/main.json");
+    const resp = await fetch("/javascript/main.json");
     data = await resp.json();
 }
 
